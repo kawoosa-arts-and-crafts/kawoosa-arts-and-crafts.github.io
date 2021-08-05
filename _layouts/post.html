@@ -120,6 +120,11 @@ layout: default
             <form class="text-left clearfix" action="https://formspree.io/f/xwkarwkb" method="POST">
               <input type="text" class="form-control" placeholder="Enter your Email" style="display: none;">
               <div class="form-group">
+                <input type="text" name="Info" class="form-control" 
+                placeholder="Someone requested info for {{ page.name }}, https://kawoosaartsandcrafts.com/p{{ page.unique_id }}" 
+                value="Someone requested info for {{ page.name }}, https://kawoosaartsandcrafts.com/p{{ page.unique_id }}" style="display: none;">
+              </div>
+              <div class="form-group">
                 <input type="email" name="Email" class="form-control" placeholder="Enter your Email" required>
               </div>
               <div class="form-group">
@@ -127,9 +132,6 @@ layout: default
               </div>
               <div class="form-group">
                 <input type="text" name="subject" class="form-control" placeholder="Enquiry for {{ page.name }}" value="Enquiry for {{ page.name }}" style="display: none;">
-              </div>
-              <div class="form-group">
-                <input type="text" name="Info" class="form-control" placeholder="Enquiry for {{ page.name }}, https://kawoosaartsandcrafts.com/p{{ page.unique_id }}" value="Enquiry for {{ page.name }}, https://kawoosaartsandcrafts.com/p{{ page.unique_id }}" style="display: none;">
               </div>
               <div class="text-center" style="float: right;">
                 <button type="submit" class="btn btn-main text-center" style="font-weight:bold">Make an Enquiry</button>
