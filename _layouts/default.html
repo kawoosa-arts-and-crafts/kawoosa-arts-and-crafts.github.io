@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  {% include meta.html %}
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4FTGPTWD5H"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-4FTGPTWD5H');
+  </script>
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Kawoosa Arts & Crafts – Over a span of 70 years KAWOOSA ARTS AND CRAFTS has established itself as the leading manufacturer and exporter of PAPIER-MACHE providing top quality-world class PAPIER-MACHE products.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Themefisher Constra HTML Template v1.0">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.png" />
+
+  <!-- Themefisher Icon font -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/plugins/themefisher-font/style.css">
+  <!-- bootstrap.min css -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/plugins/bootstrap/css/bootstrap.min.css">
+
+  <!-- Animate css -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/plugins/animate/animate.css">
+  <!-- Slick Carousel -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/plugins/slick/slick.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/plugins/slick/slick-theme.css">
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+  {% seo %}
+</head>
+
+<body id="body">
+
+  <!-- Start Top Header Bar -->
+  <section class="top-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-xs-12 col-sm-4">
+          <div class="contact-number">
+            <i class="tf-ion-ios-telephone"></i>
+            <span>
+              <a href="tel:+917006770548">
+                +91 7006 770548
+              </a>
+            </span>
+          </div>
+        </div>
+        <div class="col-md-4 col-xs-12 col-sm-4">
+          <!-- Site Logo -->
+          <div class="logo text-center">
+            <a href="/index">
+              <div style="margin-bottom: 12px;">
+                <img src="{{ site.baseurl }}/images/logo.png" style="width: 15%;">
+              </div>
+              <span
+                style="font-size:30px; font-family:AustinBold; font-weight:bold; color:black; line-height: 0px;">KAWOOSA<br></span>
+              <span style="font-size:1em; font-family:AustinBold; font-weight:bold; color:black">ARTS & CRAFTS</span>
+
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4 col-xs-12 col-sm-4">
+          <div class="contact-number heademail" style="text-align: right;">
+            <i class="tf-ion-email"></i>
+            <span>
+              <a href="mailto:someone@example.com">
+                kawoosaartsandcrafts@gmail.com
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section><!-- End Top Header Bar -->
+
+
+  <!-- Main Menu Section -->
+  <section class="menu">
+    <nav class="navbar navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <h2 class="menu-title">Main Menu</h2>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+            aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+        </div><!-- / .navbar-header -->
+
+        <!-- Navbar Links -->
+        <div id="navbar" class="navbar-collapse collapse text-center">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown ">
+              <a href="{{ site.baseurl }}/">Home</a>
+            </li>
+
+            <li class="dropdown ">
+              <a href="{{ site.baseurl }}/papermache">PAPIER MACHE</a>
+            </li>
+
+            <li class="dropdown ">
+              <a href="{{ site.baseurl }}/carpet">CARPET</a>
+            </li>
+
+            <li class="dropdown ">
+              <a href="{{ site.baseurl }}/criwel">CRIWEL</a>
+            </li>
+
+            <li class="dropdown ">
+              <a href="{{ site.baseurl }}/about">ABOUT</a>
+            </li>
+
+            <li class="dropdown ">
+              <a href="{{ site.baseurl }}/contact">CONTACT</a>
+            </li>
+
+          </ul><!-- / .nav .navbar-nav -->
+
+        </div>
+        <!--/.navbar-collapse -->
+      </div><!-- / .container -->
+    </nav>
+  </section>
+
+  {{ content }}
+
+
+  <footer class="footer section text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="social-media">
+            <li>
+              <a href="mailto:someone@example.com">
+                <i class="tf-ion-email"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/kawoosaartsandcrafts/">
+                <i class="tf-ion-social-instagram"></i>
+              </a>
+            </li>
+            <li>
+              <a href="tel:+917006770548">
+                <i class="tf-ion-ios-telephone"></i>
+              </a>
+            </li>
+          </ul>
+          <ul class="footer-menu text-uppercase">
+            <li>
+              <a href="/contact">CONTACT</a>
+            </li>
+            <li>
+              <a href="/shop">SHOP</a>
+            <li>
+              <a href="/terms">COMPANY POLICY</a>
+            </li>
+          </ul>
+          <p class="copyright-text">Copyright &copy;2021, Designed &amp; Developed by Kawoosa Arts & Crafts
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Main jQuery -->
+  <script src="{{ site.baseurl }}/plugins/jquery/dist/jquery.min.js"></script>
+  <!-- Bootstrap 3.1 -->
+  <script src="{{ site.baseurl }}/plugins/bootstrap/js/bootstrap.min.js"></script>
+  <!-- Bootstrap Touchpin -->
+  <script src="{{ site.baseurl }}/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js"></script>
+  <!-- Count Down Js -->
+  <script src="{{ site.baseurl }}/plugins/syo-timer/build/jquery.syotimer.min.js"></script>
+
+  <!-- slick Carousel -->
+  <script src="{{ site.baseurl }}/plugins/slick/slick.min.js"></script>
+  <script src="{{ site.baseurl }}/plugins/slick/slick-animation.min.js"></script>
+
+  <!-- Main Js File -->
+  <script src="{{ site.baseurl }}/js/script.js"></script>
+
+
+</body>
+
+</html>

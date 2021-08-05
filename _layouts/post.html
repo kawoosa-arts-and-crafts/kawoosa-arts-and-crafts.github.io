@@ -1,0 +1,212 @@
+---
+layout: default
+---
+
+<section class="single-product">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <ol class="breadcrumb">
+          <li><a href="/index">Home</a></li>
+          <li><a href="/shop">Shop</a></li>
+          <li class="active">{{ page.name }}</li>
+        </ol>
+      </div>
+    </div>
+    <div class="row mt-20">
+      <div class="col-md-5">
+        <div class="single-product-slider">
+          <div id='carousel-custom' class='carousel slide' data-ride='carousel'>
+            <div class='carousel-outer'>
+              <!-- me art lab slider -->
+              <div class='carousel-inner '>
+                {% capture full_img_path_primary %}{{ site.baseurl }}/images/shop/products/{{ page.img_folder }}/{{
+                page.img_primary }}{%
+                endcapture %}
+                <div class='item active'>
+                  <img src='{{ full_img_path_primary }}' alt='{{ product.name }}'
+                    data-zoom-image="{{ full_img_path_primary }}" />
+                </div>
+                {% for img in page.images %}
+                {% capture full_img_path %}{{ site.baseurl }}/images/shop/products/{{ page.img_folder }}/{{ img }}{%
+                endcapture %}
+                <div class='item'>
+                  <img src='{{ full_img_path }}' alt='{{ product.name }}' data-zoom-image="{{ full_img_path }}" />
+                </div>
+                {% endfor %}
+
+              </div>
+
+              <!-- sag sol -->
+              <a class='left carousel-control' href='#carousel-custom' data-slide='prev'>
+                <i class="tf-ion-ios-arrow-left"></i>
+              </a>
+              <a class='right carousel-control' href='#carousel-custom' data-slide='next'>
+                <i class="tf-ion-ios-arrow-right"></i>
+              </a>
+            </div>
+
+            <!-- thumb -->
+            <ol class='carousel-indicators mCustomScrollbar meartlab'>
+              <li data-target='#carousel-custom' data-slide-to='0' class='active'>
+                <img src='{{ full_img_path_primary }}' alt='{{ product.name }}' />
+              </li>
+              {% assign loop_i = 1 %}
+              {% for img in page.images %}
+
+              {% capture full_img_path %}{{ site.baseurl }}/images/shop/products/{{ page.img_folder }}/{{ img }}{%
+              endcapture %}
+              <li data-target='#carousel-custom' data-slide-to='{{ loop_i }}'>
+                <img src='{{ full_img_path }}' alt='{{ product.name }}' />
+              </li>
+              {% assign loop_i = loop_i | plus:1 %}
+              {% endfor %}
+            </ol>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-7">
+        <div class="single-product-details">
+          <h2>{{ page.name }}</h2>
+
+          <p class="product-description mt-20">
+            {{ page.description }}
+          </p>
+          <div style="margin: 15px;">
+            {% if page.materials %}
+            <div class="color-swatches">
+              <span>Material:</span>
+              <ul>
+                {{ page.materials }}
+              </ul>
+            </div>
+            {% endif %}
+            {% if page.care %}
+            <div class="product-size">
+              <span>Care:</span>
+              <ul>
+                {{ page.care }}
+              </ul>
+            </div>
+            {% endif %}
+            {% if page.usage %}
+            <div class="product-quantity">
+              <span>Usage:</span>
+              <ul>
+                {{ page.usage }}
+              </ul>
+            </div>
+            {% endif %}
+            {% if page.size %}
+            <div class="product-quantity">
+              <span>Sizes:</span>
+              <ul>
+                {{ page.size }}
+              </ul>
+            </div>
+            {% endif %}
+            {% if page.shipping %}
+            <div class="product-quantity">
+              <span>Shipping Info:</span>
+              <ul>
+                {{ page.shipping }}
+              </ul>
+            </div>
+            {% endif %}
+          </div>
+
+
+          <div style="width: 70%; margin-top: 20px;">
+            <form class="text-left clearfix" action="https://formspree.io/f/xwkarwkb" method="POST">
+              <input type="text" class="form-control" placeholder="Enter your Email" style="display: none;">
+              <div class="form-group">
+                <input type="email" name="Email" class="form-control" placeholder="Enter your Email" required>
+              </div>
+              <div class="form-group">
+                <input type="text" name="Enquiry" class="form-control" placeholder="Enter your message or enquiry" required>
+              </div>
+              <div class="form-group">
+                <input type="text" name="subject" class="form-control" placeholder="Enquiry for {{ page.name }}" value="Enquiry for {{ page.name }}" style="display: none;">
+              </div>
+              <div class="text-center" style="float: right;">
+                <button type="submit" class="btn btn-main text-center" style="font-weight:bold">Make an Enquiry</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="products related-products section">
+  <div class="container">
+    <div class="row">
+      <div class="title text-center">
+        <h2>Related Products</h2>
+      </div>
+    </div>
+    <div class="row">
+
+      {% assign suggested_products = site.posts | sample: 4 %}
+      {% for suggested_product in suggested_products limit:4 %}
+      {% capture suggest_img_path %}{{ site.baseurl }}/images/shop/products/{{ suggested_product.img_folder }}/{{
+      suggested_product.img_primary }}{%
+      endcapture %}
+      {% capture product_id_tag %}{{ suggested_product.unique_id }}{% endcapture %}
+      {% capture product_id_tag_hash %}#{{ product_id_tag }}{% endcapture %}
+      <div class="col-md-3">
+        <div class="product-item">
+          <div class="product-thumb">
+            <img class="img-responsive" src="{{ suggest_img_path }}" alt="{{ suggested_product.name }}" 
+            style = "width: 100%; height: 250px; object-fit: cover;"/>
+            <div class="preview-meta">
+              <ul>
+                <li>
+                  <span data-toggle="modal" data-target="{{ product_id_tag_hash }}">
+                    <i class="tf-ion-ios-search"></i>
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="product-content">
+            <h4><a href="{{ site.baseurl }}{{ suggested_product.url }}">{{ suggested_product.name }}</a></h4>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal product-modal fade" id="{{ product_id_tag }}">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <i class="tf-ion-close"></i>
+        </button>
+        <div class="modal-dialog " role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <div class="row">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                  <div class="modal-image">
+                    <img class="img-responsive" src="{{ suggest_img_path }}" alt="product-img" />
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-short-details">
+                    <h2 class="product-title">{{ suggested_product.name }}</h2>
+                    <p class="product-short-description">
+                      {{ suggested_product.description }}
+                    </p>
+                    <a href="{{ site.baseurl }}{{ suggested_product.url }}" class="btn btn-main"
+                      style="font-weight: bold;">View
+                      Product Details</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!-- /.modal -->
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
