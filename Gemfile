@@ -11,4 +11,4 @@ gem "jekyll", "~> 4.0"
 gem 'jekyll-compress-images'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
-gem "sassc", "< 2.2.0" 
+gem "sassc", "< 2.4.0" 
