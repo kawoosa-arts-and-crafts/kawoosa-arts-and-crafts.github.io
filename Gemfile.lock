@@ -93,7 +93,7 @@ DEPENDENCIES
   jekyll-compress-images
   jekyll-seo-tag
   jekyll-sitemap
-  sassc (< 2.2.0)
+  sassc (< 2.4.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
