@@ -339,12 +339,12 @@
       <div class="col-md-3">
         <div class="product-item">
           <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/STAR SET/1.jpg" alt="PAPIER-MACHE STAR SET" 
+            <img class="img-responsive" src="/images/shop/products/COASTERS DUCK/1.JPG" alt="PAPIER-MACHE COASTER SET DUCK." 
             style = "width: 100%; height: 250px; object-fit: cover;"/>
             <div class="preview-meta">
               <ul>
                 <li>
-                  <span data-toggle="modal" data-target="#61">
+                  <span data-toggle="modal" data-target="#21">
                     <i class="tf-ion-ios-search"></i>
                   </span>
                 </li>
@@ -352,13 +352,13 @@
             </div>
           </div>
           <div class="product-content">
-            <h4><a href="/p61/">PAPIER-MACHE STAR SET</a></h4>
+            <h4><a href="/p21/">PAPIER-MACHE COASTER SET DUCK.</a></h4>
           </div>
         </div>
       </div>
 
       <!-- Modal -->
-      <div class="modal product-modal fade" id="61">
+      <div class="modal product-modal fade" id="21">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <i class="tf-ion-close"></i>
         </button>
@@ -368,71 +368,16 @@
               <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
                   <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/STAR SET/1.jpg" alt="product-img" />
+                    <img class="img-responsive" src="/images/shop/products/COASTERS DUCK/1.JPG" alt="product-img" />
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="product-short-details">
-                    <h2 class="product-title">PAPIER-MACHE STAR SET</h2>
-                    <p class="product-short-description">
-                      A starry set of hangings makes a perfect pick to add to plush interiors of your taste. The hangings take the shape of stars of varying sizes and use a material of mashed and hardened waste paper. The paper is then painted over by master artisans of the vale who craft elegies in Papier-Mache to beautify your home.
-                    </p>
-                    <a href="/p61/" class="btn btn-main"
-                      style="font-weight: bold;">View
-                      Product Details</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><!-- /.modal -->
-      
-      
-      
-      
-      <div class="col-md-3">
-        <div class="product-item">
-          <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/COASTERS ROUND/1.JPG" alt="PAPIER-MACHE COASTER SET ROUND." 
-            style = "width: 100%; height: 250px; object-fit: cover;"/>
-            <div class="preview-meta">
-              <ul>
-                <li>
-                  <span data-toggle="modal" data-target="#24">
-                    <i class="tf-ion-ios-search"></i>
-                  </span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="product-content">
-            <h4><a href="/p24/">PAPIER-MACHE COASTER SET ROUND.</a></h4>
-          </div>
-        </div>
-      </div>
-
-      <!-- Modal -->
-      <div class="modal product-modal fade" id="24">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <i class="tf-ion-close"></i>
-        </button>
-        <div class="modal-dialog " role="document">
-          <div class="modal-content">
-            <div class="modal-body">
-              <div class="row">
-                <div class="col-md-8 col-sm-6 col-xs-12">
-                  <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/COASTERS ROUND/1.JPG" alt="product-img" />
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="product-short-details">
-                    <h2 class="product-title">PAPIER-MACHE COASTER SET ROUND.</h2>
+                    <h2 class="product-title">PAPIER-MACHE COASTER SET DUCK.</h2>
                     <p class="product-short-description">
                       A beautifully done Paper-Mache coaster set box to suit your elegant tastes.These exquisite items have been hand painted by Kashmiri artists drawing inspiration from their beautiful legacy of art. Whether gifted to a loved one or treasured in your own home, this unique set of coasters deserve all the praise they receive.
                     </p>
-                    <a href="/p24/" class="btn btn-main"
+                    <a href="/p21/" class="btn btn-main"
                       style="font-weight: bold;">View
                       Product Details</a>
                   </div>
@@ -449,12 +394,12 @@
       <div class="col-md-3">
         <div class="product-item">
           <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/FLAT BOX/1.JPG" alt="PAPIER MACHE FLAT BOX" 
+            <img class="img-responsive" src="/images/shop/products/CARD BOX/1.JPG" alt="PAPIER-MACHE CARD BOX." 
             style = "width: 100%; height: 250px; object-fit: cover;"/>
             <div class="preview-meta">
               <ul>
                 <li>
-                  <span data-toggle="modal" data-target="#40">
+                  <span data-toggle="modal" data-target="#10">
                     <i class="tf-ion-ios-search"></i>
                   </span>
                 </li>
@@ -462,13 +407,13 @@
             </div>
           </div>
           <div class="product-content">
-            <h4><a href="/p40/">PAPIER MACHE FLAT BOX</a></h4>
+            <h4><a href="/p10/">PAPIER-MACHE CARD BOX.</a></h4>
           </div>
         </div>
       </div>
 
       <!-- Modal -->
-      <div class="modal product-modal fade" id="40">
+      <div class="modal product-modal fade" id="10">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <i class="tf-ion-close"></i>
         </button>
@@ -478,16 +423,16 @@
               <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
                   <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/FLAT BOX/1.JPG" alt="product-img" />
+                    <img class="img-responsive" src="/images/shop/products/CARD BOX/1.JPG" alt="product-img" />
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="product-short-details">
-                    <h2 class="product-title">PAPIER MACHE FLAT BOX</h2>
+                    <h2 class="product-title">PAPIER-MACHE CARD BOX.</h2>
                     <p class="product-short-description">
-                      The artist handmakes a Paper Mache Box with his fine skill to enrich your interiors. The box is ideal for storing little chattels in the most crafty fashion.
+                      Decorate Your Work Desk And Make Them Look Fantastic With This Papier-Mache Card Box. The holder has been handcrafted in the Valley of Kashmir where skilled craftsmen paint elegies in art over a base of mashed paper or wood and transform them into pieces of luxury decor and accessories through an elaborate art form known as Papier-Mache.
                     </p>
-                    <a href="/p40/" class="btn btn-main"
+                    <a href="/p10/" class="btn btn-main"
                       style="font-weight: bold;">View
                       Product Details</a>
                   </div>
@@ -504,12 +449,12 @@
       <div class="col-md-3">
         <div class="product-item">
           <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/SAMAVOR/1.jpg" alt="PAPIER-MACHE SAMOVOR." 
+            <img class="img-responsive" src="/images/shop/products/ELEPHANTS/1.JPG" alt="Papier Mache Elephant" 
             style = "width: 100%; height: 250px; object-fit: cover;"/>
             <div class="preview-meta">
               <ul>
                 <li>
-                  <span data-toggle="modal" data-target="#58">
+                  <span data-toggle="modal" data-target="#39">
                     <i class="tf-ion-ios-search"></i>
                   </span>
                 </li>
@@ -517,13 +462,13 @@
             </div>
           </div>
           <div class="product-content">
-            <h4><a href="/p58/">PAPIER-MACHE SAMOVOR.</a></h4>
+            <h4><a href="/p39/">Papier Mache Elephant</a></h4>
           </div>
         </div>
       </div>
 
       <!-- Modal -->
-      <div class="modal product-modal fade" id="58">
+      <div class="modal product-modal fade" id="39">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <i class="tf-ion-close"></i>
         </button>
@@ -533,16 +478,71 @@
               <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
                   <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/SAMAVOR/1.jpg" alt="product-img" />
+                    <img class="img-responsive" src="/images/shop/products/ELEPHANTS/1.JPG" alt="product-img" />
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="product-short-details">
-                    <h2 class="product-title">PAPIER-MACHE SAMOVOR.</h2>
+                    <h2 class="product-title">Papier Mache Elephant</h2>
                     <p class="product-short-description">
-                      The samovor is a memoir of the Kashmiri culture, where any occasion is rendered incomplete without a SAMOVAR brewing the robust NOON-CHAI or a heavenly cup of KEHWA. This handcrafted SAMOVAR is more than just decor. It is a piece of luxury, an explicit art form in itself which lingers on in the memories of those who set their eyes on them. Magically transformed into a classic piece of opulence, the Samovar has been conjured from remnants of waste paper by an elaborate process which begins with mashing and hardening this paper and then painting elegies in art with the help of specialized brushes. . Bring home this sumptuous pieces of home decor and let it make a statement of exclusivity within your dwelling.
+                      These elephants gets a wooden base, covered in the Mashed Paper making it one of the masterpieces of Kashmiri Paper-Mache. Collect it as a piece of classic decor and let it sit on that shelf which craves for some life.
                     </p>
-                    <a href="/p58/" class="btn btn-main"
+                    <a href="/p39/" class="btn btn-main"
+                      style="font-weight: bold;">View
+                      Product Details</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!-- /.modal -->
+      
+      
+      
+      
+      <div class="col-md-3">
+        <div class="product-item">
+          <div class="product-thumb">
+            <img class="img-responsive" src="/images/shop/products/HANGING ELEPHANTS/1.JPG" alt="DECORATIVE PAPIER-MACHE HANGINGS." 
+            style = "width: 100%; height: 250px; object-fit: cover;"/>
+            <div class="preview-meta">
+              <ul>
+                <li>
+                  <span data-toggle="modal" data-target="#13">
+                    <i class="tf-ion-ios-search"></i>
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="product-content">
+            <h4><a href="/p13/">DECORATIVE PAPIER-MACHE HANGINGS.</a></h4>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal product-modal fade" id="13">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <i class="tf-ion-close"></i>
+        </button>
+        <div class="modal-dialog " role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <div class="row">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                  <div class="modal-image">
+                    <img class="img-responsive" src="/images/shop/products/HANGING ELEPHANTS/1.JPG" alt="product-img" />
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-short-details">
+                    <h2 class="product-title">DECORATIVE PAPIER-MACHE HANGINGS.</h2>
+                    <p class="product-short-description">
+                      Kashmir Paper-Mache is a handicraft involving the transformation of paper pulp into intricately decorated artefacts such as Papier-Mache boxes, bowls, elephant models, cups and numerous other handy objects. These colourful hanging items comes in the shape of an cate, elephants, camels, horses, birds etc they come together to form a beautiful set which sways across your home. These hangings uses a material of mashed and hardened waste paper.  The items are crafted in a fun mix of colours and within the realms of Kashmiri Paper Mache.  This is achieved by magical hands which later lends its charm to your living space.
+                    </p>
+                    <a href="/p13/" class="btn btn-main"
                       style="font-weight: bold;">View
                       Product Details</a>
                   </div>
