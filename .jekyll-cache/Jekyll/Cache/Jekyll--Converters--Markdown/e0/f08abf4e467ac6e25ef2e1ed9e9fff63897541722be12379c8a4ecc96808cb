@@ -1,0 +1,213 @@
+I"«<section class="page-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="content">
+					<h1 class="page-name">Criwel</h1>
+					<ol class="breadcrumb">
+						<li><a href="index.html">Home</a></li>
+						<li class="active">Criwel</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="products section">
+	<div class="container">
+		<div class="row">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+      		
+			<div class="col-md-4">
+				<div class="product-item">
+					<div class="product-thumb" data-toggle="modal" data-target="#36">
+					    
+						<img class="img-responsive" src="/images/shop/products/CRIWEL/1.jpg" alt="product-img" style="height: 350px; object-fit: cover;" />
+						<div class="preview-meta">
+							<ul>
+								<li>
+									<span>
+										<i class="tf-ion-ios-search-strong"></i>
+									</span>
+								</li>
+							</ul>
+                      	</div>
+					</div>
+					<div class="product-content">
+						<h4><a href="/p36/">Criwel embroidery Kashmir.</a></h4>
+					</div>
+				</div>
+			</div>
+		
+		<!-- Modal -->
+		<div class="modal product-modal fade" id="36">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<i class="tf-ion-close"></i>
+			</button>
+		  	<div class="modal-dialog " role="document">
+		    	<div class="modal-content">
+			      	<div class="modal-body">
+			        	<div class="row">
+			        		<div class="col-md-8 col-sm-6 col-xs-12">
+			        			<div class="modal-image">
+				        			<img class="img-responsive" src="/images/shop/products/CRIWEL/1.jpg" alt="product-img" />
+			        			</div>
+			        		</div>
+			        		<div class="col-md-4 col-sm-6 col-xs-12">
+			        			<div class="product-short-details">
+			        				<h2 class="product-title">Criwel embroidery Kashmir.</h2>
+			        				<p class="product-short-description">
+			        					The most celebrated of traditional Kashmiri handicrafts is embroidery. A special kind of embroidery done with a pointed hook used for drapery and upholstery is known as crewel. Because of the high quality of embroidery done on wall hangings and rugs, Kashmiri crewel-work is in great demand throughout the world. Crewel embroidery is a fascinating needle art. Typically done in thin wool thread on linen or cotton fabric, crewel work provides a texture not seen in silk or cotton embroidery. A special kind of embroidery done with a pointed hook used for drapery and upholstery is known as crewel. Because of the high quality of embroidery done on wall hangings and rugs, Kashmiri crewel-work is in great demand throughout the world. Crewel is basically similar to chain stitch, done on a white background, though here the motifs, mainly styled flowers, do not cover the entire surface, and the background is not embroidered upon. Wool is almost invariably used in crewel-work and colour schemes are not as elaborate as in chain stitch.
+			        				</p>
+			        				<a href="/p36/" class="btn btn-main" style="font-weight: bold;">View Product Details</a>
+			        			</div>
+			        		</div>
+			        	</div>
+			        </div>
+		    	</div>
+		  	</div>
+		</div><!-- /.modal -->
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</div>
+	</div>
+</section>
+:ET
