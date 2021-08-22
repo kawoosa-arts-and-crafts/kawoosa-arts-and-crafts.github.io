@@ -339,12 +339,12 @@
       <div class="col-md-3">
         <div class="product-item">
           <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/DUCKS/1.JPG" alt="PAPIER-MACHE DUCKS." 
+            <img class="img-responsive" src="/images/shop/products/BOOK COVERS/1.jpg" alt="PAPIER-MACHE BOOK COVER." 
             style = "width: 100%; height: 250px; object-fit: cover;"/>
             <div class="preview-meta">
               <ul>
                 <li>
-                  <span data-toggle="modal" data-target="#25">
+                  <span data-toggle="modal" data-target="#5">
                     <i class="tf-ion-ios-search"></i>
                   </span>
                 </li>
@@ -352,13 +352,13 @@
             </div>
           </div>
           <div class="product-content">
-            <h4><a href="/p25/">PAPIER-MACHE DUCKS.</a></h4>
+            <h4><a href="/p5/">PAPIER-MACHE BOOK COVER.</a></h4>
           </div>
         </div>
       </div>
 
       <!-- Modal -->
-      <div class="modal product-modal fade" id="25">
+      <div class="modal product-modal fade" id="5">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <i class="tf-ion-close"></i>
         </button>
@@ -368,16 +368,16 @@
               <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
                   <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/DUCKS/1.JPG" alt="product-img" />
+                    <img class="img-responsive" src="/images/shop/products/BOOK COVERS/1.jpg" alt="product-img" />
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="product-short-details">
-                    <h2 class="product-title">PAPIER-MACHE DUCKS.</h2>
+                    <h2 class="product-title">PAPIER-MACHE BOOK COVER.</h2>
                     <p class="product-short-description">
-                      The Papier-Mache duck is one of the traditional animals done by Kashmir artisans, which can be kept as a shelf decor, storage box or the most unique gift to the one you love.The insides of the duck are done in a glossy black finish which can be used for storage purposes.
+                      This PAPIER-MACHE BOOK COVER fits a standard size hard back Anonymous Big Book. Made of the finest Papier-Mache outer surface and finished velvet interior, this cover is hand carved and hand tooled. Keep your precious book safe in our beautiful book covers.
                     </p>
-                    <a href="/p25/" class="btn btn-main"
+                    <a href="/p5/" class="btn btn-main"
                       style="font-weight: bold;">View
                       Product Details</a>
                   </div>
@@ -394,12 +394,12 @@
       <div class="col-md-3">
         <div class="product-item">
           <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/POWDER BOX ONION/1.JPG" alt="PAPIER-MACHE POWDER BOX ONION." 
+            <img class="img-responsive" src="/images/shop/products/HORSE/1.JPG" alt="PAPIER-MACHE HORSE." 
             style = "width: 100%; height: 250px; object-fit: cover;"/>
             <div class="preview-meta">
               <ul>
                 <li>
-                  <span data-toggle="modal" data-target="#54">
+                  <span data-toggle="modal" data-target="#42">
                     <i class="tf-ion-ios-search"></i>
                   </span>
                 </li>
@@ -407,13 +407,13 @@
             </div>
           </div>
           <div class="product-content">
-            <h4><a href="/p54/">PAPIER-MACHE POWDER BOX ONION.</a></h4>
+            <h4><a href="/p42/">PAPIER-MACHE HORSE.</a></h4>
           </div>
         </div>
       </div>
 
       <!-- Modal -->
-      <div class="modal product-modal fade" id="54">
+      <div class="modal product-modal fade" id="42">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <i class="tf-ion-close"></i>
         </button>
@@ -423,126 +423,126 @@
               <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
                   <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/POWDER BOX ONION/1.JPG" alt="product-img" />
+                    <img class="img-responsive" src="/images/shop/products/HORSE/1.JPG" alt="product-img" />
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="product-short-details">
-                    <h2 class="product-title">PAPIER-MACHE POWDER BOX ONION.</h2>
+                    <h2 class="product-title">PAPIER-MACHE HORSE.</h2>
+                    <p class="product-short-description">
+                      This Paper-Mache Horse decorative item Enhance the decor value of the house, office, hotel ,etc. Great ideas for wedding gifts, anniversary gifts house warming ceremonies, Birthday gifts, ceremonies. Perfect Gift For Your Loved Ones.
+                    </p>
+                    <a href="/p42/" class="btn btn-main"
+                      style="font-weight: bold;">View
+                      Product Details</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!-- /.modal -->
+      
+      
+      
+      
+      <div class="col-md-3">
+        <div class="product-item">
+          <div class="product-thumb">
+            <img class="img-responsive" src="/images/shop/products/FLAT BOX/1.JPG" alt="PAPIER MACHE FLAT BOX" 
+            style = "width: 100%; height: 250px; object-fit: cover;"/>
+            <div class="preview-meta">
+              <ul>
+                <li>
+                  <span data-toggle="modal" data-target="#40">
+                    <i class="tf-ion-ios-search"></i>
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="product-content">
+            <h4><a href="/p40/">PAPIER MACHE FLAT BOX</a></h4>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal product-modal fade" id="40">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <i class="tf-ion-close"></i>
+        </button>
+        <div class="modal-dialog " role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <div class="row">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                  <div class="modal-image">
+                    <img class="img-responsive" src="/images/shop/products/FLAT BOX/1.JPG" alt="product-img" />
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-short-details">
+                    <h2 class="product-title">PAPIER MACHE FLAT BOX</h2>
+                    <p class="product-short-description">
+                      The artist handmakes a Paper Mache Box with his fine skill to enrich your interiors. The box is ideal for storing little chattels in the most crafty fashion.
+                    </p>
+                    <a href="/p40/" class="btn btn-main"
+                      style="font-weight: bold;">View
+                      Product Details</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!-- /.modal -->
+      
+      
+      
+      
+      <div class="col-md-3">
+        <div class="product-item">
+          <div class="product-thumb">
+            <img class="img-responsive" src="/images/shop/products/POWDER BOX/1.JPG" alt="PAPIER-MACHE POWDER BOX." 
+            style = "width: 100%; height: 250px; object-fit: cover;"/>
+            <div class="preview-meta">
+              <ul>
+                <li>
+                  <span data-toggle="modal" data-target="#53">
+                    <i class="tf-ion-ios-search"></i>
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="product-content">
+            <h4><a href="/p53/">PAPIER-MACHE POWDER BOX.</a></h4>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal product-modal fade" id="53">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <i class="tf-ion-close"></i>
+        </button>
+        <div class="modal-dialog " role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <div class="row">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                  <div class="modal-image">
+                    <img class="img-responsive" src="/images/shop/products/POWDER BOX/1.JPG" alt="product-img" />
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-short-details">
+                    <h2 class="product-title">PAPIER-MACHE POWDER BOX.</h2>
                     <p class="product-short-description">
                       These powder boxes has it all to add a classic appeal in how you accessorize. These boxes is handmade by master artisans of Kashmir Valley who paint intriguing abstract flowers based out of their beautiful surroundings. These boxes comes with a lid which opens upto a mini compartment to store your essentials. Collect it as a piece of classic decor or as a storage box which lingers on with you for a lifetime.
                     </p>
-                    <a href="/p54/" class="btn btn-main"
-                      style="font-weight: bold;">View
-                      Product Details</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><!-- /.modal -->
-      
-      
-      
-      
-      <div class="col-md-3">
-        <div class="product-item">
-          <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/POTS 2/1.JPG" alt="PAPIER-MACHE POT." 
-            style = "width: 100%; height: 250px; object-fit: cover;"/>
-            <div class="preview-meta">
-              <ul>
-                <li>
-                  <span data-toggle="modal" data-target="#52">
-                    <i class="tf-ion-ios-search"></i>
-                  </span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="product-content">
-            <h4><a href="/p52/">PAPIER-MACHE POT.</a></h4>
-          </div>
-        </div>
-      </div>
-
-      <!-- Modal -->
-      <div class="modal product-modal fade" id="52">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <i class="tf-ion-close"></i>
-        </button>
-        <div class="modal-dialog " role="document">
-          <div class="modal-content">
-            <div class="modal-body">
-              <div class="row">
-                <div class="col-md-8 col-sm-6 col-xs-12">
-                  <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/POTS 2/1.JPG" alt="product-img" />
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="product-short-details">
-                    <h2 class="product-title">PAPIER-MACHE POT.</h2>
-                    <p class="product-short-description">
-                      Crafted carefully this box has it all to add a classic appeal in how you accessorize. The box is handmade by master artisans of Kashmir Valley. The box comes with a lid, which opens up to a little interior for easy storage of your precious stuff. Collect it as a piece of classic decor or as a storage box which lingers on with you for a lifetime.
-                    </p>
-                    <a href="/p52/" class="btn btn-main"
-                      style="font-weight: bold;">View
-                      Product Details</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><!-- /.modal -->
-      
-      
-      
-      
-      <div class="col-md-3">
-        <div class="product-item">
-          <div class="product-thumb">
-            <img class="img-responsive" src="/images/shop/products/CAMELS/1.jpg" alt="PAPIER-MACHE CAMELS" 
-            style = "width: 100%; height: 250px; object-fit: cover;"/>
-            <div class="preview-meta">
-              <ul>
-                <li>
-                  <span data-toggle="modal" data-target="#7">
-                    <i class="tf-ion-ios-search"></i>
-                  </span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="product-content">
-            <h4><a href="/p7/">PAPIER-MACHE CAMELS</a></h4>
-          </div>
-        </div>
-      </div>
-
-      <!-- Modal -->
-      <div class="modal product-modal fade" id="7">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <i class="tf-ion-close"></i>
-        </button>
-        <div class="modal-dialog " role="document">
-          <div class="modal-content">
-            <div class="modal-body">
-              <div class="row">
-                <div class="col-md-8 col-sm-6 col-xs-12">
-                  <div class="modal-image">
-                    <img class="img-responsive" src="/images/shop/products/CAMELS/1.jpg" alt="product-img" />
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="product-short-details">
-                    <h2 class="product-title">PAPIER-MACHE CAMELS</h2>
-                    <p class="product-short-description">
-                      Blend your interiors with festive seasons and decorate your shelves with a beautifully designed decor piece. Crafted in Kashmiri Papier-Mache, the piece makes you want to decorate your homes and gets you festive ready.
-                    </p>
-                    <a href="/p7/" class="btn btn-main"
+                    <a href="/p53/" class="btn btn-main"
                       style="font-weight: bold;">View
                       Product Details</a>
                   </div>
